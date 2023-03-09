@@ -24,3 +24,8 @@
     * Insira o comando ```yy``` para copiar o texto e o comando ```p``` para colar;
     * Pressione a tecla "Esc" para sair do editor;
     * Insira o comando ```:x``` para salvar e sair do arquivo;
+* Para criar um arquivo com conteúdo: ```echo "Segundo arquivo" > foo.txt```;
+# Sobre
+Feito por [Otávio Maldaner](https://github.com/OtavioMaldaner/); &nbsp;
+
+Feliz - RS | 09/03/2023
