@@ -19,3 +19,8 @@
     * Insira o comando ```git commit -m "first commit"```;
     * Insira o comando ```git status``` para ver o status novamente, para conferir se os arquivos estão preparados para serem enviados ao diretório remoto;
     * Insira o comando ```git push``` para enviar para o diretório remoto;
+* Para editar um arquivo no Vim:
+    * Digite ```vim teste.txt```;
+    * Insira o comando ```yy``` para copiar o texto e o comando ```p``` para colar;
+    * Pressione a tecla "Esc" para sair do editor;
+    * Insira o comando ```:x``` para salvar e sair do arquivo;
