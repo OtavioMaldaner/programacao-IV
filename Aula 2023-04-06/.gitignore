@@ -1,6 +1,6 @@
 #.gitignore
-* .jar
-* .temp
-* .bak
+*.jar
+*.temp
+*.bak
 bin /
 ./bin/
